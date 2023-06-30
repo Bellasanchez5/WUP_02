@@ -30,6 +30,8 @@ content of cabbages based on cultivation technique
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+the responds variable (how much is vitamin C) is numerical; the input variable is categorical. We have a Num ~ Cat
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
