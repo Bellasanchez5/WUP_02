@@ -71,3 +71,5 @@ The P value, is 0.000000003405. It is so small that I must reject the $H_0$
 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The original question is that there a difference in average of VitC between c39 and c52 cultivation methods was that based on the T test we found there is a significant  in c39 a52 and there is.  Therefore c52 is better.
