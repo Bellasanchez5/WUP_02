@@ -43,15 +43,21 @@ the responds variable (how much is vitamin C) is numerical; the input variable i
 favstats(VitC~Cult,data=veggy)
 ```
 
+This table shows that the cultivation method c52 has a higher vitamin C content than does c39, C52 show an average difference of about 13 mg. 
+
 ### Graphical Descriptive Results
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ### Numerical Descriptive Results
-
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+plot(VitC~Cult,data=veggy)
+```
 ## Inferential Results
+
+This graph shows that c52 is higher than c39
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
